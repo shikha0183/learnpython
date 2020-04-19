@@ -1,0 +1,3 @@
+name,age,university,degree
+rolf,25,mit,computer science
+jose,90,oxford,computing
